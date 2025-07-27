@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.navbar {
+    height: 80px;
+    width: 1050;
+    background-color: #ffffff;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 24px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.logo img {
+    height: 36px;
+}
+
+.section {
+    width: 720px;
+    height: 28px;
+    padding-left: 120px;
+    padding-right: 24px;
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    align-items: center;
+}
+
+.section-text {
+    height: 24px;
+    text-decoration: none;
+    color: #313131;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+/*Main Section*/
+
+.about-us {
+    height: 450px;
+
+    align-items: center;
+    display: flex;
+}
+
+.text-sec {
+    width: 550px;
+    height: 450px;
+    margin-top: 250px;
+    margin-left: 200px;
+
+}
+
+.about-us h4 {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 2.125rem;
+    line-height: 1.235;
+    letter-spacing: 0.00735em;
+    display: flex;
+
+
+}
+
+.text-1 {
+    font-size: 3rem;
+    line-height: 3.5rem;
+    letter-spacing: 0.00735em;
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.text-2 {
+    font-size: 3rem;
+    line-height: 3.5rem;
+    letter-spacing: 0.00735em;
+    font-weight: 700;
+    color: rgb(104 81 255);
+}
+
+.about-us p {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    padding-top: 10px;
+}
+
+.img-sec {
+    margin-top: 50px;
+    margin-left: 20px
+}
+
+.img-sec img {
+    width: 550px;
+    height: 421px;
+
+}
+.about-us2{
+    height: 528px;
+ margin-top: 100px;  
+ display: flex; 
+    
+}
+.beleives{
+    height: 400px;
+    width: 453px;
+    margin-left: 200px;
+    line-height: 1.6;
+    -tw-shadow: 0 4px 6px -1px rgb(0 0 0 / .1), 0 2px 4px -2px rgb(0 0 0 / .1);
+    --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+        border-width: 1px;
+            background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+                border-style: solid;
+    border-color: #e5e7eb;
+    border-radius: 18px;
+
+    
+}
+
+.beleives h6{
+    padding-top: 100px;
+    padding-left: 30px;
+            font-size: 2.5rem;
+    font-weight: 700;
+    
+    text-align: center;
+}
+.beleives h5{
+            font-size: 2rem;
+                font-weight: 700;
+                color: #6851ff;
+                text-align: center;
+}
+.text-div{
+    height: 400px;
+    width: 500px;
+    margin-left: 60px;
+    
+}
+.text-div h6{
+            font-size: 2rem;
+            padding-top: 30px;
+
+}
+.text-div p{
+        font-family: Roboto, Helvetica, Arial, sans-serif;
+        padding-top: 10px;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.00938em
+}
+,footer{
+    
+}
